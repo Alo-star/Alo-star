@@ -81,7 +81,6 @@
 ### 👨‍🔧 Languages & UI 👨‍🔧  
 <img src="https://img.shields.io/badge/C++-7F52FF?style=for-the-badge&logo=c++&logoColor=white" />
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-<img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=android&logoColor=white" />
 <img src="https://img.shields.io/badge/XML-FF6600?style=for-the-badge" />
 
 ### ⚙️ Architecture & Libraries ⚙️  
