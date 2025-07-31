@@ -51,9 +51,6 @@
 <a href="https://www.instagram.com/alok_jisce_cse?igsh=Njh6N2V4cnZxOTg5">
   <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
 </a>
-<a href="https://www.facebook.com/share/19U1UFNJdx/">
-  <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" />
-</a>
 </td>
 </tr>
 </table>
