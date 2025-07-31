@@ -48,7 +48,7 @@
 <a href="https://www.linkedin.com/in/alok-chakraborty-a9292229a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app a">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://www.instagram.com/suman.mula.18/?hl=en">
+<a href="https://www.instagram.com/alok_jisce_cse?igsh=Njh6N2V4cnZxOTg5">
   <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
 </a>
 <a href="https://www.facebook.com/share/16NMyXm1Xd/">
