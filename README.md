@@ -83,16 +83,8 @@
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
 <img src="https://img.shields.io/badge/XML-FF6600?style=for-the-badge" />
 
-### ⚙️ Architecture & Libraries ⚙️  
-<img src="https://img.shields.io/badge/MVVM-architecture-blue?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Room-Database-green?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Retrofit-2C3E50?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Hilt-DI-7963e0?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Coroutines-lightblue?style=for-the-badge" />
-
 ### ☁️ Backend & Auth ☁️  
 <img src="https://img.shields.io/badge/Firebase-yellow?style=for-the-badge&logo=firebase&logoColor=black" />
-<img src="https://img.shields.io/badge/Firebase%20Auth-yellow?style=for-the-badge" />
 <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" />
 
 </td>
