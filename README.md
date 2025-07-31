@@ -118,10 +118,7 @@
 
 ---
 
-## 🧠 Fun Developer Fact
 
-> I enjoy solving weird layout bugs — it’s like unlocking hidden puzzles no one else saw !  
-> Exploring open-source Android projects is my weekend hobby 🧩
 
 ---
 
