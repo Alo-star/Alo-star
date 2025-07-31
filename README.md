@@ -45,7 +45,7 @@
   
 <h2 align="center">🌐 Connect with Me 🌐</h2>
 
-<a www.linkedin.com/in/alok-chakraborty-a9292229a>
+<awww.linkedin.com/in/alok-chakraborty-a9292229a>
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://www.instagram.com/suman.mula.18/?hl=en">
