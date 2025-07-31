@@ -127,8 +127,11 @@
 
 ## 💬 Favorite Dev Quote
 
-> **“First, solve the problem. Then, write the code.”**  
-> — *John Johnson*
+> **“🧠Bad programmers worry about the code. Good programmers worry about data structures and their relationships.”**  
+
+
+ 
+> — * Linus Torvalds *
 
 ---
 
