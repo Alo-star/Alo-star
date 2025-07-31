@@ -99,12 +99,16 @@
 
 <h2>📚 Currently Learning</h2>
 
-- 📲 Jetpack Compose navigation & dynamic theming  
-- 🔐 Firebase Firestore & Realtime DB  
-- 🧩 Clean Architecture + Repository Pattern  
-- 🌍 REST API integration with Retrofit  
-- 🧪 Unit testing for ViewModels and Repos  
+- Data structure and Algorithm C++
+- Object-Oriented Programming (OOPs) in C++
+ 🎯 Key Concepts:
 
+- Class & Object
+- Encapsulation
+- Abstraction
+- Inheritance
+- Polymorphism (Compile-time & Run-time)
+ 
 </td>
 <td valign="top" width="50%">
 
