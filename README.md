@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://github.com/Sumanmula/Picture/blob/main/Suman%20Linkedin%20Cover%20image%202.png" alt="Suman Mula Banner" />
+  <img src="https://github.com/Sumanmula/Picture/blob/main/Suman%20Linkedin%20Cover%20image%202.png" alt="Alok Chakraborty Banner" />
 </p>
 
 <h1 align="center">👋 Hi, I'm Alok Chakraborty👋</h1>
