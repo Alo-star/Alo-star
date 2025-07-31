@@ -17,11 +17,14 @@
 
 ### 👨‍💻 About Me 👨‍💻 
 
-- 🎓 B.Tech in Information Technology (2021 - 2024) – MCKV Institute of Engineering  
-- 🎓 B.Sc in Mathematics (2018 - 2021) – Vidyasagar University  
-- 💡 Passionate about building Android apps using **Jetpack Compose + MVVM**  
-- 🔥 Constantly learning **Firebase**, **Room**, **API integration** and **Clean Architecture**  
-- ✨ I love transforming creative UI/UX into interactive mobile experiences  
+- 🎓 B.Tech in Computer Science And Engineering(2023 - 2027) –Jis College Of Engineering  
+- 🎓 Marh Gopalpur Sindhubala High School(HS)
+     Higher Secondary in Pure Science
+      Duration : 2022 – 2023
+      CGPA : 8.84 / 10.0
+      Subject: Mathematics , Physics , Chemistry , Biology 
+- 💡 Passionate about building Android apps using **Java,XML,Android Studio**  
+  ✨ I love transforming creative UI/UX into interactive mobile experiences  
 - 📬 Email : **chakrabortyalok812@gmail.com**
 
 </td>
@@ -42,7 +45,7 @@
   
 <h2 align="center">🌐 Connect with Me 🌐</h2>
 
-<a href="https://www.linkedin.com/in/suman-mula18/">
+<a www.linkedin.com/in/alok-chakraborty-a9292229a>
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://www.instagram.com/suman.mula.18/?hl=en">
